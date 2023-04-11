@@ -6,4 +6,5 @@ This a simple 1.19.2 I whipped up. For the most part, it helps YouTubers that wa
 
 # Boss Bar
 ![Bossbar](https://user-images.githubusercontent.com/130502806/231268679-48d27396-1508-437f-b340-69bb718144c9.png)
-!(Gradually decreases over 5 seconds)
+
+(Gradually decreases over 5 seconds)
